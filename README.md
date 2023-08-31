@@ -31,7 +31,7 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/f2408041daf957407630247e27b84ff7/e93b9a807a3c6d1d-be/s540x810/5ebb11962fd2d024ed379ae05f027ba9dc8c1a15.gif"  />
+<img align="right" height="200" src="https://64.media.tumblr.com/f2408041daf957407630247e27b84ff7/e93b9a807a3c6d1d-be/s540x810/5ebb11962fd2d024ed379ae05f027ba9dc8c1a15.gif"  />
 
 ###
 
@@ -39,15 +39,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yt15d2a1nvtlgimkjgcclsm1e&unique=1)
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lilyaruto/lilyaruto/output/snake.svg" alt="Snake animation" />
 
 ###
